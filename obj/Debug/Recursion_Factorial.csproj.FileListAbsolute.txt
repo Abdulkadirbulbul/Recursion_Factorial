@@ -1,0 +1,7 @@
+D:\Github\Visual  Studio\Recursion_Factorial\Recursion_Factorial\bin\Debug\Recursion_Factorial.exe.config
+D:\Github\Visual  Studio\Recursion_Factorial\Recursion_Factorial\bin\Debug\Recursion_Factorial.exe
+D:\Github\Visual  Studio\Recursion_Factorial\Recursion_Factorial\bin\Debug\Recursion_Factorial.pdb
+D:\Github\Visual  Studio\Recursion_Factorial\Recursion_Factorial\obj\Debug\Recursion_Factorial.csprojAssemblyReference.cache
+D:\Github\Visual  Studio\Recursion_Factorial\Recursion_Factorial\obj\Debug\Recursion_Factorial.csproj.CoreCompileInputs.cache
+D:\Github\Visual  Studio\Recursion_Factorial\Recursion_Factorial\obj\Debug\Recursion_Factorial.exe
+D:\Github\Visual  Studio\Recursion_Factorial\Recursion_Factorial\obj\Debug\Recursion_Factorial.pdb
